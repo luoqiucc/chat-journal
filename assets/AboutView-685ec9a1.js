@@ -1,0 +1,1 @@
+import{_ as e,J as o,K as s,S as t}from"./index-757722b1.js";const a={},c={class:"view about"},n=t("p",null,"群刊",-1),_=t("a",{href:"https://github.com/zhangao204/chat-journal",target:"_blank"},"Github",-1),r=[n,_];function i(h,d){return o(),s("div",c,r)}const u=e(a,[["render",i]]);export{u as default};

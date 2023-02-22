@@ -1,0 +1,1 @@
+import{l as a}from"./DetailView-03349c79.js";import{s}from"./starring-8f4650da.js";import"./index-757722b1.js";const i={...a[1],starring:s,chat:[{title:"",author:"",session:[{...s[0],message:"早上好",image:""},{...s[1],message:"下午好",image:""},{...s[2],message:"晚上好",image:""}]}]};export{i as default};
